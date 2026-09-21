@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
