@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
 ## Queue
 |  |
 | ------- |
