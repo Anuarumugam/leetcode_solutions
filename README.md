@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
