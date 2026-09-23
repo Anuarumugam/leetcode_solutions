@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0575-distribute-candies) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
