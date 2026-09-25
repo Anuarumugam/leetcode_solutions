@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
