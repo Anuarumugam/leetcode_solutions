@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [1512-number-of-good-pairs](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
