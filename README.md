@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -136,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
