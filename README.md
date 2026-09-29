@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3701-compute-alternating-sum) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
