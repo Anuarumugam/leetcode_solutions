@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0682-baseball-game) |
 ## Sorting
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0605-can-place-flowers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
