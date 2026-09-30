@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2000-reverse-prefix-of-word](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Anuarumugam/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
 ## Queue
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Anuarumugam/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anuarumugam/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/Anuarumugam/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
